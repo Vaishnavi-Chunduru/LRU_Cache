@@ -53,7 +53,7 @@ This project is useful for understanding core **Data Structures** concepts and c
 ---
 
 ## Project Structure
-LRU-Cache-Simulator/
+LRU-Cache-Simulator//
 │
 ├── index.html
 └── README.md
