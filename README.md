@@ -53,13 +53,12 @@ This project is useful for understanding core **Data Structures** concepts and c
 - Map Data Structure (for LRU implementation)
 
 ---
+## Project Structure
 
 LRU-Cache-Simulator/
 │
-├── index.html        # Main file (HTML + CSS + JS)
-└── README.md         # Project documentation
-
-
+├── index.html
+└── README.md
 ---
 
 ## How to Run the Project
