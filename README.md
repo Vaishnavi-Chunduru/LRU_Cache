@@ -1,5 +1,8 @@
 # LRU Cache Simulator
 
+## Deployment Link
+https://vaishnavi-chunduru.github.io/LRU_Cache/
+
 ## Overview
 The **LRU Cache Simulator** is a web-based interactive visualization tool that demonstrates how the **Least Recently Used (LRU)** cache algorithm works. It allows users to perform cache operations and observe how elements are inserted, accessed, updated, and evicted when the cache reaches its capacity.
 
@@ -52,11 +55,10 @@ This project is useful for understanding core **Data Structures** concepts and c
 
 ---
 
-## Project Structure
-LRU-Cache-Simulator//
+LRU-Cache-Simulator/
 │
-├── index.html
-└── README.md
+├── index.html        # Main file (HTML + CSS + JS)
+└── README.md         # Project documentation
 
 
 ---
